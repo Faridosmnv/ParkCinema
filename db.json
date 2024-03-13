@@ -1,0 +1,852 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Ana",
+      "genre": "Drama",
+      "country": "Azərbaycan",
+      "releaseDate": "18 yanvar",
+      "yearOfDevelopment": 2022,
+      "director": "Vüsal Məmmədov, Vüsalə Tağı",
+      "mainActors": ["Gülər Nəbiyeva", "Firəngiz Babayeva", "İlqar Musayev"],
+      "length": "80 dəq",
+      "ageLimit": "6+",
+      "language": "AZ",
+      "info": "Fərid müharibədən qayıdır.O qonşusu Leyla xalanın əziyyətlərini görsə də həqiqətləri deyə bilmir.",
+      "subtitles": {
+        "available": false
+      },
+      "format": "2D Dolby",
+      "place": "ParkCinema MetroPark AygunMall Zagulba Sahdag",
+      "cinema_places": [
+        {
+          "name": "ParkBulvar",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "18:00"
+                  },
+                  {
+                    "time": "21:00"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "15:30"
+                  },
+                  {
+                    "time": "19:30"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "MetroPark",
+          "available": false
+        },
+        {
+          "name": "FlameTowers",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "16:30"
+                  },
+                  {
+                    "time": "19:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "14:00"
+                  },
+                  {
+                    "time": "18:00"
+                  }
+                ]
+              }
+            },
+            {
+              "hall_name": "Zal 2",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "17:30"
+                  },
+                  {
+                    "time": "20:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "15:00"
+                  },
+                  {
+                    "time": "19:00"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "AygunMall",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "15:00"
+                  },
+                  {
+                    "time": "18:00"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "12:30"
+                  },
+                  {
+                    "time": "16:30"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Zagulba",
+          "available": false
+        },
+        {
+          "name": "Sahdaq",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "14:30"
+                  },
+                  {
+                    "time": "17:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "12:00"
+                  },
+                  {
+                    "time": "16:00"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "link": "5HHjtyKJVbU",
+      "poster": "imgonline-com-ua-Resize-jSL4DbzkqNGUM_resized.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Bacı qardaş komandası",
+      "genre": "Komediya, Ailəvi",
+      "country": "Türkiyə",
+      "releaseDate": "18 yanvar",
+      "yearOfDevelopment": 2024,
+      "director": "Mustafa Kotan",
+      "mainActors": ["Ceyda Kasabalı", "Fırat Albayram", "Çağan Efe Ak"],
+      "length": "100 dəq",
+      "ageLimit": "12+",
+      "format": "3D",
+      "language": "TR",
+      "info": "Dörd qardaş Dəniz, Derya, Əli və Yaz adi bir məktəb səhəri yuxudan oyandıqlarına inanırlar. Valideynlərinin əslində gizli agent olduqlarını öyrənirlər. Valideynləri qeyri-adi texnologiyaların qorunduğu TeknoStar üçün işləyir, lakin bu texnologiyaları ələ keçirmək istəyən şər qüvvələr tərəfindən qaçırılır. TeknoStar dünyanın gələcəyini formalaşdıran yüzlərlə texnoloji ixtira və proqram təminatını özündə birləşdirən mühüm mərkəzdir. Evlərindəki gizli kupedə gizlədilən TA-OZ 4000 superkompüterinin köməyi ilə dörd qardaş həm valideynlərini, həm də Yer kürəsinin gələcəyini xilas etmək üçün macəraya başlayırlar. Bu çətin yolda onlar əsl KARDES TAKIMI olurlar.",
+      "subtitles": {
+        "available": true,
+        "subtitles": "AZ"
+      },
+      "place": "ParkCinema MetroPark AygunMall Zagulba Sahdag",
+
+      "cinema_places": [
+        {
+          "name": "ParkBulvar",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "18:00"
+                  },
+                  {
+                    "time": "21:00"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "15:30"
+                  },
+                  {
+                    "time": "19:30"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "MetroPark",
+          "available": false
+        },
+        {
+          "name": "FlameTowers",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "16:30"
+                  },
+                  {
+                    "time": "19:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "14:00"
+                  },
+                  {
+                    "time": "18:00"
+                  }
+                ]
+              }
+            },
+            {
+              "hall_name": "Zal 2",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "17:30"
+                  },
+                  {
+                    "time": "20:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "15:00"
+                  },
+                  {
+                    "time": "19:00"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "AygunMall",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "15:00"
+                  },
+                  {
+                    "time": "18:00"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "12:30"
+                  },
+                  {
+                    "time": "16:30"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Zagulba",
+          "available": false
+        },
+        {
+          "name": "Sahdaq",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "14:30"
+                  },
+                  {
+                    "time": "17:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "12:00"
+                  },
+                  {
+                    "time": "16:00"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "link": "axfltCYUxpM",
+      "poster": "imgonline-com-ua-Resize-bqxhuXP9gmjtL_resized.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Tay 2: Babil komandası",
+      "genre": "Macəra, Animasiya, Ailəvi",
+      "country": "Türkiyə",
+      "releaseDate": "12 yanvar",
+      "yearOfDevelopment": 2024,
+      "director": "Nurullah Yenihan",
+      "mainActors": "-",
+      "length": "80 dəq",
+      "ageLimit": "6+",
+      "format": "IMAX 2D 3D",
+      "language": "TR",
+      "info": "Babil komandası- Carçı atı olmaq arzusunda olan Taydan bəhs edir. Tayın ən böyük arzusu – anası Şiraz kimi carçı atı olmaqdır. Bunun üçün Tay Qüdsdən Məkkəyə doğru macəra dolu səyahətə yollanır. Carçı atı olmaq üçün bacarıqlarını mükəmməlləşdirən Tay anası Şiraz ilə yaşadığı çətinliklər ilə yanaşı rastlaşdığı pis adamlar onu məqsədinə daha möhkəm bağlayır. Bu arada vacib bir məktub əldə edən Tay məktubu Məkkəyə Komandir Ammana çatdırmağa cəhd edərkən fərqli çətin vəziyyətlərə düşür.",
+      "subtitles": {
+        "available": true,
+        "subtitles": "AZ"
+      },
+      "place": "MetroPark FlameTowers AygunMall Sahdag",
+
+      "cinema_places": [
+        {
+          "name": "ParkBulvar",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "18:00"
+                  },
+                  {
+                    "time": "21:00"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "15:30"
+                  },
+                  {
+                    "time": "19:30"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "MetroPark",
+          "available": false
+        },
+        {
+          "name": "FlameTowers",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "16:30"
+                  },
+                  {
+                    "time": "19:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "14:00"
+                  },
+                  {
+                    "time": "18:00"
+                  }
+                ]
+              }
+            },
+            {
+              "hall_name": "Zal 2",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "17:30"
+                  },
+                  {
+                    "time": "20:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "15:00"
+                  },
+                  {
+                    "time": "19:00"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "AygunMall",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "15:00"
+                  },
+                  {
+                    "time": "18:00"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "12:30"
+                  },
+                  {
+                    "time": "16:30"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Zagulba",
+          "available": false
+        },
+        {
+          "name": "Sahdaq",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "14:30"
+                  },
+                  {
+                    "time": "17:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "12:00"
+                  },
+                  {
+                    "time": "16:00"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "link": "9xXoXjnFQlk",
+      "poster": "imgonline-com-ua-Resize-HIMD5VYL3P_resized.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Arqayil. Supercasus",
+      "genre": "Döyüş, Komediya",
+      "country": "Böyük Britaniya, ABŞ",
+      "releaseDate": "1 fevral",
+      "yearOfDevelopment": 2024,
+      "director": "Metyu Von",
+      "mainActors": ["Sofiya Butella", "Henri Kavill", "Ketrin O’Hara"],
+      "length": "150 dəq",
+      "ageLimit": "16+",
+      "format": "2D LaseR",
+      "language": "EN RU",
+      "info": "Elli Konvey qapalı casus romanları yazan, evindən nadir hallarda çıxan kəsdir. Amma bir gün o real casusluq aləminə düşür. Bu reallıq onun yazdığı kitabların məzmununa oxşayır və qizli nəhs sindikata bənzəyir.",
+      "subtitles": {
+        "available": true,
+        "subtitles": "AZ"
+      },
+      "place": "ParkCinema MetroPark FlameTowers Zagulba Sahdag",
+
+      "cinema_places": [
+        {
+          "name": "ParkBulvar",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "18:00"
+                  },
+                  {
+                    "time": "21:00"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "15:30"
+                  },
+                  {
+                    "time": "19:30"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "MetroPark",
+          "available": false
+        },
+        {
+          "name": "FlameTowers",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "16:30"
+                  },
+                  {
+                    "time": "19:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "14:00"
+                  },
+                  {
+                    "time": "18:00"
+                  }
+                ]
+              }
+            },
+            {
+              "hall_name": "Zal 2",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "17:30"
+                  },
+                  {
+                    "time": "20:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "15:00"
+                  },
+                  {
+                    "time": "19:00"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "AygunMall",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "15:00"
+                  },
+                  {
+                    "time": "18:00"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "12:30"
+                  },
+                  {
+                    "time": "16:30"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "Zagulba",
+          "available": false
+        },
+        {
+          "name": "Sahdaq",
+          "available": true,
+          "halls": [
+            {
+              "hall_name": "Zal 1",
+              "schedule": {
+                "today": [
+                  {
+                    "time": "14:30"
+                  },
+                  {
+                    "time": "17:30"
+                  }
+                ],
+                "tomorrow": [
+                  {
+                    "time": "12:00"
+                  },
+                  {
+                    "time": "16:00"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "link": "oxAbYjosgPw",
+      "poster": "Arqayl-com-ua-Resize-qZOLqEpuDg96_resized.jpg"
+    }
+  ],
+  "soon": [
+    {
+      "id": 1,
+      "title": "Arqayil. Supercasus",
+      "genre": "Döyüş, Komediya",
+      "country": "Böyük Britaniya, ABŞ",
+      "releaseDate": "1 fevral",
+      "yearOfDevelopment": 2024,
+      "director": "Metyu Von",
+      "mainActors": ["Sofiya Butella", "Henri Kavill", "Ketrin O’Hara"],
+      "length": "150 dəq",
+      "ageLimit": "16+",
+      "format": "IMAX LaseR",
+      "place": "ParkCinema MetroPark AygunMall Zagulba Sahdag",
+      "language": "RU EN",
+      "info": "Elli Konvey qapalı casus romanları yazan, evindən nadir hallarda çıxan kəsdir. Amma bir gün o real casusluq aləminə düşür. Bu reallıq onun yazdığı kitabların məzmununa oxşayır və qizli nəhs sindikata bənzəyir.",
+      "subtitles": {
+        "available": true,
+        "subtitles": "AZ"
+      },
+
+      "cinema_places": [
+        {
+          "name": "ParkBulvar",
+          "available": false
+        },
+        {
+          "name": "MetroPark",
+          "available": false
+        },
+        {
+          "name": "FlameTowers",
+          "available": false
+        },
+        {
+          "name": "AygunMall",
+          "available": false
+        },
+        {
+          "name": "Zagulba",
+          "available": false
+        },
+        {
+          "name": "Sahdaq",
+          "available": false
+        }
+      ],
+      "link": "oxAbYjosgPw",
+      "poster": "Arqayl-com-ua-Resize-qZOLqEpuDg96_resized.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Bö Alajen",
+      "genre": "Kdəhşət, komediya",
+      "country": "Azərbaycan",
+      "releaseDate": "25 yanvar",
+      "yearOfDevelopment": 2024,
+      "director": "Zaur Tahirsoy",
+      "mainActors": ["Tural Bünyadzadə", "Nərmin Bağırlı", "Anar Əli"],
+      "length": "75 dəq",
+      "ageLimit": "16+",
+      "format": "IMAX 3D",
+      "place": "ParkCinema MetroPark Zagulba Sahdag",
+
+      "language": "AZ EN",
+      "info": "Bir qrup gənc talış mifologiyasında məşhur Alajen personajı haqqında qorxu filmi çəkmək üçün Lənkərana yollanır. Kino çəkilişi müddətində Alajenin mif deyil həqiqi personaj olduğunun fərqinə varırlar. ",
+      "subtitles": {
+        "available": false
+      },
+
+      "cinema_places": [
+        {
+          "name": "ParkBulvar",
+          "available": false
+        },
+        {
+          "name": "MetroPark",
+          "available": false
+        },
+        {
+          "name": "FlameTowers",
+          "available": false
+        },
+        {
+          "name": "AygunMall",
+          "available": false
+        },
+        {
+          "name": "Zagulba",
+          "available": false
+        },
+        {
+          "name": "Sahdaq",
+          "available": false
+        }
+      ],
+      "link": "asv7qMQMT-I",
+      "poster": "imgonline-com-ua-Resize-3TBjLmpl5kz_resized.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Sonik 3",
+      "genre": "Fantastika, Fentezi, Döyüş, Komediya, Macəra",
+      "country": "ABŞ, Yaponiya",
+      "yearOfDevelopment": 2024,
+      "director": "Ceff Fauler",
+      "mainActors": ["İdris Elba", "Ceyms Marsden", "Ben Şvarts"],
+      "length": "80 dəq",
+      "ageLimit": "6+",
+      "format": "2D Dolby",
+      "place": "ParkCinema FlameTowers AygunMall Zagulba Sahdag",
+      "language": "TR RU",
+      "subtitles": {
+        "available": true,
+        "subtitles": "AZ"
+      },
+
+      "cinema_places": [
+        {
+          "name": "ParkBulvar",
+          "available": false
+        },
+        {
+          "name": "MetroPark",
+          "available": false
+        },
+        {
+          "name": "FlameTowers",
+          "available": false
+        },
+        {
+          "name": "AygunMall",
+          "available": false
+        },
+        {
+          "name": "Zagulba",
+          "available": false
+        },
+        {
+          "name": "Sahdaq",
+          "available": false
+        }
+      ],
+      "link": "",
+      "poster": "imgonline-com-ua-Resize-GFKhC5SeDyL1Oiz_resized.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Madam Tor",
+      "genre": "Fantastika, Döyüş, Macəra",
+      "country": "ABŞ",
+      "releaseDate": "15 fevral",
+      "yearOfDevelopment": 2024,
+      "director": "S. C. Klarkson",
+      "mainActors": ["Sindi Suini", "Emma Roberts", "İzabella Mersed"],
+      "length": "120 dəq",
+      "ageLimit": "16+",
+      "format": "3D LaseR",
+      "place": "ParkCinema MetroPark AygunMall Zagulba",
+      "language": "RU AZ",
+      "info": "Nyu-Yorklu tibb bacısı Kassandra Üebb gələcəyi görmək başlayır. Öz keçmişi ilə üzləşməyə məcbur olaraq o, həmçinin, üç gənc qadını onları öldürmək niyyətində olan naməlum düşmənin qarşısını almalıdır. ",
+      "subtitles": {
+        "available": true,
+        "subtitles": "AZ"
+      },
+
+      "schedule": [
+        {
+          "today": [
+            {
+              "time": "18:00"
+            },
+            {
+              "time": "21:00"
+            }
+          ]
+        },
+        {
+          "tomorrow": [
+            {
+              "time": "15:30"
+            },
+            {
+              "time": "19:30"
+            }
+          ]
+        },
+        {
+          "dayAfterTomorrow": [
+            {
+              "time": "14:00"
+            },
+            {
+              "time": "17:00"
+            }
+          ]
+        }
+      ],
+      "link": "imgB1r6XGAo",
+      "poster": "madame-com-ua-Resize-9bmlP8yyjoMlaM_resized.jpg"
+    }
+  ]
+}

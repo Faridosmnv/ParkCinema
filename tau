@@ -1,0 +1,8 @@
+.map((i) => {
+  console.log(i)
+  return (
+    <option key={nanoid()} value={i.value}>
+      {i.schedule}
+    </option>
+  );
+})
